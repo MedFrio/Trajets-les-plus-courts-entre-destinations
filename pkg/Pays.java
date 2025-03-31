@@ -6,7 +6,7 @@
 package pkg;
 import java.util.*;
 
-/** Classe Pays du package sae de la SAE S2.02 exploitation algorithmique d'un probleme  */
+/** Classe Pays du package exploitation algorithmique d'un probleme  */
 public class Pays {
     
     /** nomPays est un String, cet argument vise à attribuer un nom à notre Pays */
